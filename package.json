@@ -1,7 +1,7 @@
 {
   "name": "astro-starter-template",
   "type": "module",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "engines": {
     "node": ">=22.12.0"
   },
@@ -12,6 +12,7 @@
     "astro": "astro"
   },
   "dependencies": {
+    "@astrojs/sitemap": "^3.7.2",
     "@tailwindcss/vite": "^4.2.2",
     "astro": "^6.1.4",
     "astro-seo": "^1.1.0",
