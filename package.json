@@ -1,7 +1,7 @@
 {
   "name": "astro-starter-template",
   "type": "module",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "engines": {
     "node": ">=22.12.0"
   },
@@ -12,15 +12,15 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/react": "^5.0.3",
+    "@astrojs/react": "^5.0.4",
     "@astrojs/sitemap": "^3.7.2",
-    "@tailwindcss/vite": "^4.2.2",
+    "@tailwindcss/vite": "^4.3.0",
     "@types/react": "^19.2.14",
     "@types/react-dom": "^19.2.3",
-    "astro": "^6.1.4",
+    "astro": "^6.3.1",
     "astro-seo": "^1.1.0",
-    "react": "^19.2.4",
-    "react-dom": "^19.2.4",
-    "tailwindcss": "^4.2.2"
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6",
+    "tailwindcss": "^4.3.0"
   }
 }
