@@ -121,7 +121,7 @@ import Counter from '../components/Counter.jsx'
 
 ## 👨‍💻 Autor
 
-Hecho por **Carlos Lizarzaburu**
+_Hecho por_ **Carlos Lizarzaburu** - [LizarzaburuCarlos](https://github.com/LizarzaburuCarlos)
 
 ---
 
